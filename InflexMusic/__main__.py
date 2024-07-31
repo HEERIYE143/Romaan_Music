@@ -50,7 +50,7 @@ async def init():
         pass
     await Inflex.decorators()
     LOGGER("InflexMusic").info(
-        "Inflex Music Bot Started Successfully"
+        "❤️‍🩹𝐏𝐈𝐂𝐊 • 𝐔𝐏 • 𝐋𝐈𝐍𝐄𝐒 ❤️‍🩹 Music Bot Started Successfully"
     )
     await idle()
     await app.stop()
