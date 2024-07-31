@@ -1,7 +1,7 @@
-<h1 align="center"> Inflex Music Bot <\> </h1>
+<h1 align="center"> 𝐏𝐈𝐂𝐊 𝐔𝐏 𝐋𝐈𝐍𝐄𝐒 𝐌𝐔𝐒𝐈𝐂 <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Inflex Music Logo" width="640" height="360">
+  <img src="https://telegra.ph/file/aade504a633e9b9e2d940.jpg" alt="Inflex Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
       ─「 <\> Deploy On Heroku <\> 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamInflex/InflexMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/HEERIYE143/PICKUPLINE"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ### 🔧 Quick Setup
@@ -99,7 +99,7 @@ The Inflex Music Bot Offers A Range Of Commands To Enhance Your Music Listening 
 | `/stop`                 | Stop The Bot And Clear The Queue.           |
 | `/queue`                | Display The List Of Songs In The Queue.     |
 
-For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicBot).
+For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/PICK_UP_LINE_MUSIC_BOT).
 
 ---
 
@@ -108,10 +108,10 @@ For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicB
 Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/InflexSupport">
+  <a href="https://telegram.me/ll_ZIDAN_ll">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/TeamInflex">
+  <a href="https://telegram.me/ll_ZIDAN_ll">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
