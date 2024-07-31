@@ -8,7 +8,7 @@ from ..logging import LOGGER
 
 class Inflex(Client):
     def __init__(self):
-        LOGGER(__name__).info(f"Starting Bot...")
+        LOGGER(__name__).info(f" ❤️‍🩹 𝐏𝐈𝐂𝐊 • 𝐔𝐏 • 𝐋𝐈𝐍𝐄𝐒 ❤️‍🩹 Starting Bot...")
         super().__init__(
             name="InflexMusic",
             api_id=config.API_ID,
@@ -48,7 +48,7 @@ class Inflex(Client):
                 "Please promote your bot as an admin in your log group/channel."
             )
             exit()
-        LOGGER(__name__).info(f"Music Bot Started As {self.name}")
+        LOGGER(__name__).info(f" ❤️‍🩹 𝐏𝐈𝐂𝐊 • 𝐔𝐏 • 𝐋𝐈𝐍𝐄𝐒 ❤️‍🩹 Music Bot Started As {self.name}")
 
     async def stop(self):
         await super().stop()
