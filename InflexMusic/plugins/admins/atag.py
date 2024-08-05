@@ -9,8 +9,8 @@ from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
 from dotenv import load_dotenv
 import config
-from LUCKYMUSIC.core.userbot import Userbot
-from LUCKYMUSIC import app
+from InflexMusic.core.userbot import Userbot
+from InflexMusic import app
 from pyrogram.types import ChatPermissions
 
 userbot = Userbot()
